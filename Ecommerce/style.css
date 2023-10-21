@@ -66,7 +66,7 @@ color:purple;
 
 
 .mid>a:hover{
-    color:blueviolet;
+    color:blue;
     border-bottom: 2px solid blueviolet;
     transition:all .5s;
     /* box-shadow: 0 0 10px black; */
