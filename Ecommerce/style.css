@@ -180,7 +180,7 @@ button{
     cursor:pointer;
 }
 button:hover{
-    color:white;
+    color:red;
     background-color: rgb(124, 61, 15);
 
 }
